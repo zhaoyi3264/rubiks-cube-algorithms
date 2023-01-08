@@ -1,0 +1,23 @@
+[
+    {
+        "puzzle": "3",
+        "dir": "3x3",
+        "sheet_id": "1vS7ZESZs8Hm9rvGsTmO9E8ubztE8n0Ht44n6UQz91RSkAynBjQbgo-rWjahWn9qTdLPk9JcisrDxhIv",
+        "algorithm_sets": [
+            {
+                "sub_dir": "oll",
+                "sheet_name": "OLL",
+            
+                "view": "plan",
+                "stage": "oll"
+            },
+            {
+                "sub_dir": "pll",
+                "sheet_name": "PLL",
+            
+                "view": "plan",
+                "stage": "pll"
+            }
+        ]
+    }
+]

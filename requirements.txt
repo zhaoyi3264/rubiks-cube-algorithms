@@ -1,0 +1,4 @@
+cairosvg
+openpyxl
+pandas
+requests
